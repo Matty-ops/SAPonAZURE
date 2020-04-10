@@ -6,7 +6,7 @@
             "value": "testVm"
         },
         "HANAJumpbox": {
-            "value": "yes",
+            "value": "yes"
         },
         "VMSize": {
             "value": "Standard_GS5 (448 GB, Certified)"
@@ -60,7 +60,7 @@
             "value": "yes"
 		},
 		"DnSName": {
-            "value": "saphana",
+            "value": "saphana"
         },
         "StaticIP": {
           "value":  "10.0.5.4"
